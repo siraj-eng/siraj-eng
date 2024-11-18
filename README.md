@@ -3,6 +3,18 @@
   <img height="394" width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 </div>
 
+# My Project
+
+## Pull Request Status
+
+![Open PRs](https://img.shields.io/github/issues-pr/siraj-eng/my-repo)  
+![Merged PRs](https://img.shields.io/github/issues-pr-closed/siraj-eng/my-repo)  
+![PR Status](https://github.com/siraj-eng/my-repo/workflows/CI/badge.svg)
+
+## Commit Activity
+![Commit Activity](https://img.shields.io/github/commit-activity/m/siraj-eng/my-repo)
+
+
 <h4 align="left">Hi 👋! I'm Siraj</h2>
 <p>🚀 Welcome to the frontier of innovation and immersive digital experiences!
 As a passionate web and mobile developer, I’m on a mission to create extraordinary, user-centric solutions that leave a lasting impact. With a deep love for cutting-edge technologies and a relentless drive for perfection, I build applications that not only look stunning but deliver exceptional functionality.
